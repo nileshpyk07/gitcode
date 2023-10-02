@@ -1,2 +1,3 @@
 This is file B
 This is secound time git 
+This chnage 3
